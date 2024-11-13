@@ -13,9 +13,9 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ALPHA_BABY_lll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Unofficial_Legend")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","SonaliMusicRobot")
+BOT_USERNAME = getenv("BOT_USERNAME","AnsiGbot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -30,11 +30,11 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6051510669))
+OWNER_ID = int(getenv("OWNER_ID", 7291963092))
 
 
 # make your bots privacy from telegra.ph and put your url here 
-PRIVACY_LINK = getenv("PRIVACY_LINK", "https://graph.org/PRIVACY-FOR-TEAM-PURVI-BOTS-09-18")
+PRIVACY_LINK = getenv("PRIVACY_LINK", "https://graph.org/vTelegraphBot-11-13-24")
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -44,7 +44,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/NOOB-CODER-RAJA/SONA",
+    "https://github.com/BadshahAk/SONA",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
