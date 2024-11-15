@@ -4,7 +4,7 @@ from SONALI.core.git import git
 from SONALI.core.userbot import Userbot
 from SONALI.misc import dbb, heroku
 
-from SafoneAPI import SafoneAPI
+
 from .logging import LOGGER
 
 dirr()
